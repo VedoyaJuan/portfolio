@@ -90,11 +90,7 @@ const config = {
             label: 'Información',
           },
           {to: '/blog', label: 'Proyectos', position: 'left'},
-          {
-            href: 'https://github.com/VedoyaJuan',
-            label: 'GitHub',
-            position: 'right',
-          },
+          
         ],
       },
       footer: {
@@ -113,33 +109,22 @@ const config = {
               },
             ],
           },
+          
           {
-            title: 'Community',
+            title: 'Perfil Profesional',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'Otros',
-            items: [
-              {
-                label: 'Proyectos',
-                to: '/blog',
+               label: 'Curriculum',
+                href: '/docs/otros/Curriculum.pdf', // <-- aquí sin ./static
+                target: '_blank', // opcional: para abrir en otra pestaña
               },
               {
                 label: 'GitHub',
                 href: 'https://github.com/VedoyaJuan',
+              },
+              {
+                label: 'LinkdIn',
+                href: 'https://www.linkedin.com/in/juan-pablo-vedoya/',
               },
             ],
           },
