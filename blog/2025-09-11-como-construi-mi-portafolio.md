@@ -11,13 +11,34 @@ tags: [proyectos, desarrollo-web, tutoriales]
 
 <!--truncate-->
 
+## ¿Qué es Docusaurus?
+
+**Docusaurus** nació en **2017**, desarrollado por ingenieros de **Facebook (hoy Meta)**.
+La idea original era resolver un problema interno: necesitaban una forma **sencilla y ordenada de crear documentación** para proyectos de código abierto, que se pudiera mantener fácilmente junto con el repositorio de cada proyecto.
+
+En esa época, muchas documentaciones técnicas eran caóticas: cada una tenía un estilo distinto, se usaban generadores complejos o directamente wikis difíciles de mantener. Docusaurus propuso una alternativa:
+
+* **Escribir en Markdown** (fácil para cualquier desarrollador).
+* **Generar un sitio web estático moderno** con React.
+* **Automatizar la navegación, sidebar y versión de docs** sin tener que hacerlo manualmente.
+
+El proyecto fue creciendo rápidamente porque se adoptó en la documentación oficial de librerías muy conocidas como **React Native, Jest, Redux y muchas más**. Eso le dio visibilidad y lo consolidó como un estándar en la comunidad.
+
+Con el tiempo, la herramienta evolucionó a lo que hoy conocemos como **Docusaurus 2**, mucho más flexible:
+
+* Soporta **blogs, portafolios y páginas personalizadas**, no solo documentación.
+* Se integra con **plugins y temas** para personalizar el diseño.
+* Se puede desplegar fácilmente en **GitHub Pages, Netlify o Vercel**.
+
+
+
 ## ¿Por Qué Elegí Docusaurus?
 
 Docusaurus es una herramienta perfecta para principiantes como yo porque:
 
 - **Fácil de usar**: Viene con todo configurado para crear documentación y blogs. No necesitas ser un experto en React para empezar.
 - **Ideal para portafolios**: Permite separar contenido estático (como mi información personal y educación) en la sección "docs" y contenido dinámico (como detalles de proyectos) en el "blog".
-- **SEO-friendly**: Se optimiza automáticamente para motores de búsqueda, lo que es crucial para que reclutadores encuentren mi sitio.
+- **SEO-friendly (Amigable con motores de busqueda)**: Se optimiza automáticamente para motores de búsqueda, lo que es crucial para que reclutadores encuentren mi sitio.
 - **Personalizable**: Puedo agregar componentes React, estilos CSS y hasta integraciones con otras herramientas.
 - **Gratis y open-source**: No hay costos ocultos, y hay una gran comunidad para pedir ayuda.
 
@@ -80,19 +101,18 @@ Como principiante, tuve varios obstáculos:
 
 El mayor desafío fue equilibrar simplicidad con funcionalidad. Aprendí que menos es más: un sitio limpio y con buena información es lo que buscaba ya que mi objetivo no es tanto lo grafico y el frontend en sí, sino el contenido.
 
-## Consejos para Desarrolladores Principiantes
-
-- **Empieza pequeño**: No intentes hacer todo de una vez. Comienza con la instalación y ve agregando secciones.
-- **Aprende Markdown**: Es esencial para escribir en Docusaurus.
-- **Usa Git**: Guarda versiones de tu código para no perder cambios.
-- **Pide feedback**: Comparte tu sitio con amigos o en comunidades como Reddit.
-- **Actualiza regularmente**: Agrega nuevos proyectos para mostrar crecimiento.
-- **No temas experimentar**: Docusaurus es flexible; puedes cambiar estilos y agregar plugins fácilmente.
 
 ## Conclusión
 
-Construir este portafolio me enseñó mucho sobre desarrollo web y autoaprendizaje. Desde cero, pasé de no saber nada a tener un sitio funcional que me ayuda a conseguir oportunidades. Si tienes dudas, revisa la documentación de Docusaurus o únete a su comunidad en Discord.
+Construir este portafolio me enseñó mucho sobre desarrollo web y autoaprendizaje. Desde cero, pasé de no saber nada a tener un sitio funcional que me ayuda a conseguir oportunidades.
+
+## Enlaces interesantes
+
+[Docusaurus](https://docusaurus.io/)
+
+---
 
 Para ver resúmenes de mis proyectos, ve a [docs/Proyectos](../docs/Proyectos). ¡Gracias por leer!
 
 ¿Tienes preguntas? Contáctame en [mi email](mailto:tu-email@example.com).
+

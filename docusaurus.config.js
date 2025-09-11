@@ -89,7 +89,7 @@ const config = {
             position: 'left',
             label: 'Sobre mí',
           },
-          {to: '/blog', label: 'Proyectos', position: 'left'},
+          {to: '/blog', label: 'Blogs', position: 'left'},
           
         ],
       },
