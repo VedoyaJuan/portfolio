@@ -1,19 +1,15 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+proyectos:
+  label: Proyectos
+  permalink: /blog/tags/proyectos
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+desarrollo-web:
+  label: Desarrollo Web
+  permalink: /blog/tags/desarrollo-web
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+tutoriales:
+  label: Tutoriales
+  permalink: /blog/tags/tutoriales
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+lecciones-aprendidas:
+  label: Lecciones Aprendidas
+  permalink: /blog/tags/lecciones-aprendidas

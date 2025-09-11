@@ -4,8 +4,7 @@ import styles from './styles.module.css';
 
 
 import DesarrolloSvg from '@site/static/img/desarrollo.svg';
-import LogoUNPSJBSvg from '@site/static/img/LogoUNPSJB.svg';
-import HabilidadesSvg from '@site/static/img/habilidades.svg';
+
 
 const FeatureList = [
   

@@ -1,0 +1,8 @@
+{
+  "label": "Cursos y Conferencias",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Una recopilación de los cursos y las diferentes conferencias que he asistido y sus respectivos certificados."
+  }
+}
