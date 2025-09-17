@@ -100,7 +100,7 @@ const config = {
             title: 'Contacto',
             items: [
               {
-                label: 'Mail: juanpa.vedoya@gmail.com',
+                label: 'juanpa.vedoya@gmail.com',
                 href: 'mailto:juanpa.vedoya@gmail.com',
               },
               {

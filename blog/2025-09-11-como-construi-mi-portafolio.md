@@ -1,13 +1,13 @@
 ---
-title: Cómo Construí Mi Portafolio Profesional con Docusaurus
+title: Cómo Construí Mi Portafolio Profesional
 date: 2025-09-11
 author: Vedoya Juan Pablo
 tags: [proyectos, desarrollo-web, tutoriales]
 ---
 
-# Cómo Construí Mi Portafolio Profesional con Docusaurus
+# Cómo Construí Mi Portafolio Profesional
 
-¡Hola! En este post quiero compartir mi experiencia completa al construir este sitio web que estás viendo ahora mismo. Como alguien sin experiencia laboral previa, decidí crear un portafolio que no solo muestre mis habilidades, sino que también sirva como una extensión de mi currículum. Elegí Docusaurus por varias razones que explicaré a continuación, y te contaré paso a paso cómo lo hice, los desafíos que enfrenté y las lecciones que aprendí. 
+Hola! En este post quiero compartir mi experiencia completa al construir este sitio que estás viendo ahora mismo. Como decidí crear un portafolio que no solo muestre mis habilidades, sino que también sirva como una extensión de mi currículum. Elegí Docusaurus por varias razones que voy a explicar a continuación, y voy a contar unos pasos simples de cómo lo hice, los desafíos que encontre y que cosas aprendí. 
 
 <!--truncate-->
 
@@ -32,13 +32,12 @@ Con el tiempo, la herramienta evolucionó a lo que hoy conocemos como **Docusaur
 
 
 
-## ¿Por Qué Elegí Docusaurus?
+## ¿Por Qué lo Elegí?
 
-Docusaurus es una herramienta perfecta para principiantes como yo porque:
+Ya que buscaba algo simple donde pueda exponer mis cosas relacionadas a la programación y que no requiera de mucho tiempo ya que estoy cursando en la universidad encontré Docusaurus que es:
 
 - **Fácil de usar**: Viene con todo configurado para crear documentación y blogs. No necesitas ser un experto en React para empezar.
-- **Ideal para portafolios**: Permite separar contenido estático (como mi información personal y educación) en la sección "docs" y contenido dinámico (como detalles de proyectos) en el "blog".
-- **SEO-friendly (Amigable con motores de busqueda)**: Se optimiza automáticamente para motores de búsqueda, lo que es crucial para que reclutadores encuentren mi sitio.
+- **Ideal para portafolios**: Permite separar contenido estático (como mi información personal y educación) en la sección "docs" y contenido dinámico (como detalles de proyectos) en el "blog". Aparte este es el tipo de paginas que te permite hostear GitHub Pages.
 - **Personalizable**: Puedo agregar componentes React, estilos CSS y hasta integraciones con otras herramientas.
 - **Gratis y open-source**: No hay costos ocultos, y hay una gran comunidad para pedir ayuda.
 
@@ -99,12 +98,12 @@ Como principiante, tuve varios obstáculos:
 
 4. **Contenido**: No sabía muy bien qué y cómo escribir. Solución: Me inspiré en portafolios de otros desarrolladores y escribí sobre mi proceso de aprendizaje.
 
-El mayor desafío fue equilibrar simplicidad con funcionalidad. Aprendí que menos es más: un sitio limpio y con buena información es lo que buscaba ya que mi objetivo no es tanto lo grafico y el frontend en sí, sino el contenido.
+El mayor desafío fue equilibrar simplicidad con funcionalidad. Aprendí lo bueno de algo simple: una pagina limpia y con buena información es lo que buscaba ya que mi objetivo no es tanto lo grafico y el frontend en sí, sino el contenido.
 
 
 ## Conclusión
 
-Construir este portafolio me enseñó mucho sobre desarrollo web y autoaprendizaje. Desde cero, pasé de no saber nada a tener un sitio funcional que me ayuda a conseguir oportunidades.
+Construir este portafolio me enseñó sobre desarrollo web y autoaprendizaje. Desde cero, pasé de no saber que hacer a tener un sitio funcional que me ayuda a mostrar sobre mi y mis proyectos.
 
 ## Enlaces interesantes
 
@@ -112,7 +111,7 @@ Construir este portafolio me enseñó mucho sobre desarrollo web y autoaprendiza
 
 ---
 
-Para ver resúmenes de mis proyectos, ve a [docs/Proyectos](../docs/Proyectos). ¡Gracias por leer!
+Para ver resúmenes de mis proyectos, dirigite a [docs/Proyectos](../docs/Proyectos). ¡Gracias por leer!
 
-¿Tienes preguntas? Contáctame en [mi email](mailto:tu-email@example.com).
+¿Tenes preguntas? Contáctame en [mi email](mailto:juanpa.vedoya@gmail.com).
 
