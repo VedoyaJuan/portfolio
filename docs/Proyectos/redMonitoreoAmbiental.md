@@ -3,8 +3,8 @@ sidebar_label: Red de Monitoreo Ambiental
 ---
 
 
-# Red De Monitoreo Ambiental
-Este proyecto fue desarrollado como **Trabajo Final** de la materia **Desarrollo de Software en la Facultad de Ingeniería de la UNPSJB**, en el marco de un convenio con la Federación Chubutense de Cooperativas de Servicios Públicos Ltda.
+# Red de Monitoreo Ambiental
+Este proyecto fue desarrollado como **Trabajo Final** de la materia **Desarrollo de Software en la Facultad de Ingeniería de la UNPSJB**, en el marco de un convenio con la Federación Chubutense de Cooperativas de Servicios Públicos Ltda. Es una página Web que recibe datos de sensores colocados por los ingenieros de las Cooperativas. Los procesa, almacena y muestra para un mejor control y monitoreo del río.
 
 **Tecnologías:** React, Node, CSS, javaScript, Python, SQLite, GitHub
 

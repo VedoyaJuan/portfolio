@@ -2,7 +2,7 @@
 title: Red de Monitoreo Ambiental
 date: 2025-09-17
 author: Vedoya Juan Pablo
-tags: [proyectos, desarrollo-web]
+tags: [proyectos, desarrollo-web, react, node, css, javascript, python, sqlite, github, fastapi, mqtt ]
 ---
 # Desarrollo de Software - Trabajo Final 2024
 

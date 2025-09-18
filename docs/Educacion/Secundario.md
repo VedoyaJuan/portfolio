@@ -12,14 +12,14 @@ Si bien el secundario a esta altura queda en un plano más histórico, considero
 
 
 - **Estado:** Finalizado  
-- **Descripción:** Carrera técnica que brinda conocimientos en construcción, diseño arquitectonico y estructural, computo y presupuestos, y aspectos legales; complementando mi formación académica y profesional.
+- **Descripción:** Carrera técnica que brinda conocimientos en construcción, diseño arquitectónico y estructural, cómputo y presupuestos, y aspectos legales; complementando mi formación académica y profesional.
 
 #### - Diploma:
 ![Diploma Secundario MMO](@site/static/img/Diploma-Secundario.jpeg)
 ---
 
 ## Enlaces de interés
-- [Politécnico 702](https://www.facebook.com/polirwinfo)  (enlace a Facebook ya que no posee pagina web)
+- [Politécnico 702](https://www.facebook.com/polirwinfo)  (enlace a Facebook ya que no posee página web)
   
  
  

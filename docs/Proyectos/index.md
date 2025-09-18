@@ -4,7 +4,7 @@ sidebar_label: Mi Portafolio Profesional
 
 
 # Mi Portafolio Profesional
-Realice esta pagina con Docusaurus para mostrar mi trabajo y habilidades. Escogi esta tecnología ya que mi prioridad era tener una pagina donde pueda mostrar mis habilidades, intereses, estudios y proyectos.
+Realicé esta página con Docusaurus para mostrar mi trabajo y habilidades. Elegí esta tecnología ya que mi prioridad era tener una página donde pueda mostrar mis habilidades, intereses, estudios y proyectos.
 
 **Tecnologías:** React, Markdown, CSS, javaScript  
 

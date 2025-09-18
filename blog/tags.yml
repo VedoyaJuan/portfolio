@@ -13,3 +13,39 @@ tutoriales:
 lecciones-aprendidas:
   label: Lecciones Aprendidas
   permalink: /blog/tags/lecciones-aprendidas
+
+react:
+  label: React
+  permalink: /blog/tags/react
+
+node:
+  label: Node
+  permalink: /blog/tags/node
+
+css:
+  label: CSS
+  permalink: /blog/tags/css
+
+javascript:
+  label: JavaScript
+  permalink: /blog/tags/javascript
+
+python:
+  label: Python
+  permalink: /blog/tags/python
+
+sqlite:
+  label: SQLite
+  permalink: /blog/tags/sqlite
+
+github:
+  label: GitHub
+  permalink: /blog/tags/github
+
+fastapi:
+  label: FastAPI
+  permalink: /blog/tags/fastapi
+
+mqtt:
+  label: MQTT
+  permalink: /blog/tags/mqtt

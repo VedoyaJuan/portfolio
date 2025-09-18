@@ -4,15 +4,15 @@ sidebar_position: 1
 
 # Universidad - UNPSJB
 
-En este apartado presento mi formación universitaria y las carreras que estoy cursando actualmente, tambien, esta la posibilidad de descargar mis analiticos parciales para ver el avance en cada carrera.
-- **Ultima modificación: 08/09/25**
+En este apartado presento mi formación universitaria y las carreras que estoy cursando actualmente, también, está la posibilidad de descargar mis analíticos parciales para ver el avance en cada carrera.
+- **Última modificación: 08/09/25**
 
 
 ## Carreras
 
 ### Analista Programador Universitario  
 - **Estado:** En curso  
-- **Descripción:** Actualmente, me encuentro finalizando esta carrera ya que solo me resta rendir los finales de las materias Analisis Matemático y Estadistica.  
+- **Descripción:** Actualmente, me encuentro finalizando esta carrera ya que solo me resta rendir los finales de las materias Análisis Matemático y Estadística.
 - **Avance de la carrera:**  [Analítico parcial Analista Programador](@site/static/docs/universidad/Analitico-Parcial-APU.pdf)
 
 #### Plan de estudios
@@ -22,7 +22,7 @@ En este apartado presento mi formación universitaria y las carreras que estoy c
 
 ### Licenciatura en Sistemas
 - **Estado:** En curso  
-- **Descripción:** Al dia de la fecha me encuentro cursando las materias del segundo cuatrimestre del 4to año de la carrera.  
+- **Descripción:** Al día de la fecha me encuentro cursando las materias del segundo cuatrimestre del 4to año de la carrera.
 - **Avance de la carrera:** [Analítico parcial Licenciatura en Sistemas](@site/static/docs/universidad/Analitico-Parcial-LicSistemas.pdf)  
 
 #### Plan de estudios
