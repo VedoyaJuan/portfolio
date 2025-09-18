@@ -104,8 +104,9 @@ const config = {
             items: [
               {
                 label: 'juanpa.vedoya@gmail.com',
-                href: 'mailto:juanpa.vedoya@gmail.com',
+                href: 'https://mail.google.com/mail/?view=cm&fs=1&to=juanpa.vedoya@gmail.com',
               },
+
               {
                 label: 'WhatsApp',
                 href: 'https://wa.me/5492804704519',
