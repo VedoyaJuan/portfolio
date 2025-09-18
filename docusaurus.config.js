@@ -20,15 +20,18 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://vedoyajuan.github.io',
+  url: 'https://vedoya.com.ar',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/portfolio',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'VedoyaJuan', // Usually your GitHub org/user name.
   projectName: 'portfolio', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
+
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
