@@ -161,7 +161,6 @@ La idea es seguir actualizándolo, agregando proyectos y probando nuevas feature
 
 ---
 
-Para ver mis proyectos resumidos, entrá a [docs/Proyectos](../docs/Proyectos).
 ¿Preguntas o comentarios? Escribime a [mi mail](mailto:juanpa.vedoya@gmail.com).
 
 

@@ -20,10 +20,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://vedoyajuan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/portfolio',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                label: 'Curriculum',
-                href: '/docs/otros/Curriculum.pdf', // <-- aquí sin ./static
+                href: '/docs/otros/Curriculum.pdf', 
                 target: '_blank', // opcional: para abrir en otra pestaña
               },
               {
