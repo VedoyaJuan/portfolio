@@ -10,8 +10,8 @@ Este proyecto fue desarrollado como **Trabajo Final** de la materia **Desarrollo
 
 ---
 
-**Enlace al detalle completo:** [Ver en Blog](../../blog/2025/09/17/proyecto-final-desarrollo-software)
+**Enlace al detalle completo:** [Ver en Blog](/blog/2025/09/17/proyecto-final-desarrollo-software)
 
 ---
 
-Para explorar más proyectos, ve a la [sección Blogs](../../blog).
+Para explorar más proyectos, ve a la [sección Blogs](/blog).
