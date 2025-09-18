@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vedoyajuan.github.io/portfolio/blog</id>
+    <id>https://vedoyajuan.github.io/blog</id>
     <title>Vedoya Juan Pablo Blog</title>
     <updated>2025-09-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vedoyajuan.github.io/portfolio/blog"/>
+    <link rel="alternate" href="https://vedoyajuan.github.io/blog"/>
     <subtitle>Vedoya Juan Pablo Blog</subtitle>
-    <icon>https://vedoyajuan.github.io/portfolio/favicon.ico</icon>
+    <icon>https://vedoyajuan.github.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Red de Monitoreo Ambiental]]></title>
-        <id>https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software</id>
-        <link href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software"/>
+        <id>https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software</id>
+        <link href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software"/>
         <updated>2025-09-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Este proyecto fue desarrollado como Trabajo Final de la materia Desarrollo de Software en la Facultad de Ingeniería de la UNPSJB, en el marco de un convenio con la Federación Chubutense de Cooperativas de Servicios Públicos Ltda.]]></summary>
         <content type="html"><![CDATA[<p>Este proyecto fue desarrollado como <strong>Trabajo Final de la materia Desarrollo de Software</strong> en la <strong>Facultad de Ingeniería de la UNPSJB</strong>, en el marco de un convenio con la <strong>Federación Chubutense de Cooperativas de Servicios Públicos Ltda.</strong></p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introducción">Introducción<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#introducci%C3%B3n" class="hash-link" aria-label="Direct link to Introducción" title="Direct link to Introducción">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introducción">Introducción<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#introducci%C3%B3n" class="hash-link" aria-label="Direct link to Introducción" title="Direct link to Introducción">​</a></h2>
 <p>El Valle Inferior del Río Chubut (VIRCH) se caracteriza por ser una región vulnerable a inundaciones.<br>
 <!-- -->Cuando se producen lluvias intensas en la meseta, los afluentes arrastran grandes cantidades de sedimentos hacia el río, lo que complica el proceso de potabilización y el suministro de agua en la ciudad de Trelew y alrededores.</p>
-<p><img decoding="async" loading="lazy" alt="Rio Chubut" src="https://vedoyajuan.github.io/portfolio/assets/images/diariosRioChubut-5539c307222c6a011e4be3c299b30c4a.png" width="997" height="580" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Rio Chubut" src="https://vedoyajuan.github.io/assets/images/diariosRioChubut-5539c307222c6a011e4be3c299b30c4a.png" width="997" height="580" class="img_ev3q"></p>
 <p>Ante esta situación, se propuso la instalación de <strong>sensores en los afluentes</strong> y el desarrollo de una <strong>aplicación web</strong> que permita:</p>
 <ul>
 <li>Monitorear en tiempo real el nivel del agua.</li>
@@ -26,7 +26,7 @@
 <li>Anticipar crecidas y emitir alertas tempranas.</li>
 </ul>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fundamentación">Fundamentación<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#fundamentaci%C3%B3n" class="hash-link" aria-label="Direct link to Fundamentación" title="Direct link to Fundamentación">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fundamentación">Fundamentación<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#fundamentaci%C3%B3n" class="hash-link" aria-label="Direct link to Fundamentación" title="Direct link to Fundamentación">​</a></h2>
 <p>La solución se basó en una <strong>arquitectura Cliente-Servidor</strong> con dos grandes componentes:</p>
 <ul>
 <li><strong>Backend:</strong> encargado de recibir datos de los sensores, procesarlos y almacenarlos en la base de datos.</li>
@@ -39,7 +39,7 @@
 <li>Compatible con múltiples dispositivos (PC, notebook, smartphone).</li>
 </ul>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="desarrollo-del-producto">Desarrollo del Producto<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#desarrollo-del-producto" class="hash-link" aria-label="Direct link to Desarrollo del Producto" title="Direct link to Desarrollo del Producto">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="desarrollo-del-producto">Desarrollo del Producto<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#desarrollo-del-producto" class="hash-link" aria-label="Direct link to Desarrollo del Producto" title="Direct link to Desarrollo del Producto">​</a></h2>
 <p>El proceso comenzó con entrevistas a los <strong>stakeholders</strong> (profesores, estudiantes y técnicos de la cooperativa) y la elaboración de un <strong>User Story Mapping</strong>.<br>
 <!-- -->De allí surgieron los tres pilares principales del MVP:</p>
 <ol>
@@ -49,9 +49,9 @@
 </ol>
 <p>Las historias de usuario priorizadas fueron las de <strong>visualización</strong>, ya que era importante validar pronto la interfaz gráfica.<br>
 <!-- -->Se seleccionó la plantilla <strong>Argon Dashboard para React</strong> como base de diseño del frontend.</p>
-<p><img decoding="async" loading="lazy" alt="Dashboard " src="https://vedoyajuan.github.io/portfolio/assets/images/argonDashboard-1788ab90a0163bbf761f6d723dac68be.png" width="768" height="764" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Dashboard " src="https://vedoyajuan.github.io/assets/images/argonDashboard-1788ab90a0163bbf761f6d723dac68be.png" width="768" height="764" class="img_ev3q"></p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="interfaz-del-sistema">Interfaz del sistema<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#interfaz-del-sistema" class="hash-link" aria-label="Direct link to Interfaz del sistema" title="Direct link to Interfaz del sistema">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="interfaz-del-sistema">Interfaz del sistema<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#interfaz-del-sistema" class="hash-link" aria-label="Direct link to Interfaz del sistema" title="Direct link to Interfaz del sistema">​</a></h3>
 <ul>
 <li><strong>Login:</strong> acceso con usuario y contraseña ya registrados.</li>
 <li><strong>Dashboard principal:</strong>
@@ -62,10 +62,10 @@
 </ul>
 </li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="LogIn" src="https://vedoyajuan.github.io/portfolio/assets/images/login-819450d7dfe66194a86b25ca51f047ff.png" width="648" height="669" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="LogIn" src="https://vedoyajuan.github.io/assets/images/login-819450d7dfe66194a86b25ca51f047ff.png" width="648" height="669" class="img_ev3q"></p>
 <hr>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="módulos-principales">Módulos principales<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#m%C3%B3dulos-principales" class="hash-link" aria-label="Direct link to Módulos principales" title="Direct link to Módulos principales">​</a></h3>
-<p><img decoding="async" loading="lazy" alt="Modulos" src="https://vedoyajuan.github.io/portfolio/assets/images/modulos-ed81ba4b6ca1eece5ef7577e93285f74.png" width="964" height="295" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="módulos-principales">Módulos principales<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#m%C3%B3dulos-principales" class="hash-link" aria-label="Direct link to Módulos principales" title="Direct link to Módulos principales">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="Modulos" src="https://vedoyajuan.github.io/assets/images/modulos-ed81ba4b6ca1eece5ef7577e93285f74.png" width="964" height="295" class="img_ev3q"></p>
 <ul>
 <li><strong>Mapa interactivo:</strong>
 <ul>
@@ -75,8 +75,8 @@
 </ul>
 </li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Mapa" src="https://vedoyajuan.github.io/portfolio/assets/images/mapa-1ed79d272f89b193a30bbb230fbea47f.png" width="1002" height="670" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="Nodos" src="https://vedoyajuan.github.io/portfolio/assets/images/nodosMapa-0c230e215af10bec7b5660e0a38a0e93.png" width="935" height="363" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Mapa" src="https://vedoyajuan.github.io/assets/images/mapa-1ed79d272f89b193a30bbb230fbea47f.png" width="1002" height="670" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Nodos" src="https://vedoyajuan.github.io/assets/images/nodosMapa-0c230e215af10bec7b5660e0a38a0e93.png" width="935" height="363" class="img_ev3q"></p>
 <ul>
 <li><strong>Gráficos:</strong>
 <ul>
@@ -86,7 +86,7 @@
 </ul>
 </li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Graficos" src="https://vedoyajuan.github.io/portfolio/assets/images/graficas-b3fd69db960f2a801d96ad4252dc6ca5.png" width="895" height="488" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Graficos" src="https://vedoyajuan.github.io/assets/images/graficas-b3fd69db960f2a801d96ad4252dc6ca5.png" width="895" height="488" class="img_ev3q"></p>
 <ul>
 <li><strong>Tablas:</strong>
 <ul>
@@ -96,7 +96,7 @@
 </ul>
 </li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Tablas" src="https://vedoyajuan.github.io/portfolio/assets/images/tablas-a99fcd52d10717cfb734f3943d6d1f7d.png" width="959" height="633" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Tablas" src="https://vedoyajuan.github.io/assets/images/tablas-a99fcd52d10717cfb734f3943d6d1f7d.png" width="959" height="633" class="img_ev3q"></p>
 <ul>
 <li><strong>Gestión de nodos:</strong>
 <ul>
@@ -105,8 +105,8 @@
 </ul>
 </li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Registrar Nodo" src="https://vedoyajuan.github.io/portfolio/assets/images/registrarNodo-bfe47e73641c34d5580911ed359138c8.png" width="847" height="551" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="Gestion de Nodos" src="https://vedoyajuan.github.io/portfolio/assets/images/gestionNodo-85b10fbf5bbc541a0cf362effe418da4.png" width="964" height="396" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Registrar Nodo" src="https://vedoyajuan.github.io/assets/images/registrarNodo-bfe47e73641c34d5580911ed359138c8.png" width="847" height="551" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Gestion de Nodos" src="https://vedoyajuan.github.io/assets/images/gestionNodo-85b10fbf5bbc541a0cf362effe418da4.png" width="964" height="396" class="img_ev3q"></p>
 <ul>
 <li><strong>Configuración de límites:</strong>
 <ul>
@@ -115,10 +115,10 @@
 </ul>
 </li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Tipos" src="https://vedoyajuan.github.io/portfolio/assets/images/tipos-29d7e723413ddc397f5caf692231c756.png" width="964" height="339" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="Editar Tipos" src="https://vedoyajuan.github.io/portfolio/assets/images/editarTipo-4c2c79a6afd5ab88a203519e0d15eeb1.png" width="521" height="694" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Tipos" src="https://vedoyajuan.github.io/assets/images/tipos-29d7e723413ddc397f5caf692231c756.png" width="964" height="339" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Editar Tipos" src="https://vedoyajuan.github.io/assets/images/editarTipo-4c2c79a6afd5ab88a203519e0d15eeb1.png" width="521" height="694" class="img_ev3q"></p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="modelo-de-datos">Modelo de Datos<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#modelo-de-datos" class="hash-link" aria-label="Direct link to Modelo de Datos" title="Direct link to Modelo de Datos">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="modelo-de-datos">Modelo de Datos<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#modelo-de-datos" class="hash-link" aria-label="Direct link to Modelo de Datos" title="Direct link to Modelo de Datos">​</a></h2>
 <p>El sistema se estructuró en 5 tablas principales:</p>
 <ol>
 <li><strong>Nodo:</strong> información de cada sensor (ID, alias, coordenadas, estado, fechas, mediciones).</li>
@@ -127,9 +127,9 @@
 <li><strong>Alertas:</strong> historial de eventos generados al superar umbrales.</li>
 <li><strong>Registros:</strong> usuarios del sistema (credenciales).</li>
 </ol>
-<p><img decoding="async" loading="lazy" alt="Entidad Relacion" src="https://vedoyajuan.github.io/portfolio/assets/images/diagramaER-496e7bc1dfb10ed9deeeafffd8f51868.png" width="860" height="745" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Entidad Relacion" src="https://vedoyajuan.github.io/assets/images/diagramaER-496e7bc1dfb10ed9deeeafffd8f51868.png" width="860" height="745" class="img_ev3q"></p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="stack-tecnológico">Stack Tecnológico<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#stack-tecnol%C3%B3gico" class="hash-link" aria-label="Direct link to Stack Tecnológico" title="Direct link to Stack Tecnológico">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="stack-tecnológico">Stack Tecnológico<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#stack-tecnol%C3%B3gico" class="hash-link" aria-label="Direct link to Stack Tecnológico" title="Direct link to Stack Tecnológico">​</a></h2>
 <p>El proyecto se construyó utilizando herramientas modernas de la industria:</p>
 <ul>
 <li>
@@ -157,9 +157,9 @@
 </li>
 </ul>
 <p>Este stack permitió lograr un sistema <strong>escalable, mantenible y fácil de extender</strong> con nuevas funcionalidades.</p>
-<p><img decoding="async" loading="lazy" alt="Tecnologias" src="https://vedoyajuan.github.io/portfolio/assets/images/tecnologias-ccabde240478fd97809be4a3adcd3eb7.png" width="617" height="377" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Tecnologias" src="https://vedoyajuan.github.io/assets/images/tecnologias-ccabde240478fd97809be4a3adcd3eb7.png" width="617" height="377" class="img_ev3q"></p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gestión-del-proyecto-scrum">Gestión del Proyecto (Scrum)<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#gesti%C3%B3n-del-proyecto-scrum" class="hash-link" aria-label="Direct link to Gestión del Proyecto (Scrum)" title="Direct link to Gestión del Proyecto (Scrum)">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gestión-del-proyecto-scrum">Gestión del Proyecto (Scrum)<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#gesti%C3%B3n-del-proyecto-scrum" class="hash-link" aria-label="Direct link to Gestión del Proyecto (Scrum)" title="Direct link to Gestión del Proyecto (Scrum)">​</a></h2>
 <p>Se utilizó <strong>Scrum</strong> como metodología ágil, con sprints de dos semanas.</p>
 <ul>
 <li><strong>Tablero Kanban:</strong> organización del trabajo.</li>
@@ -169,10 +169,10 @@
 </ul>
 <p>Al inicio fue difícil definir roles y responsabilidades, pero la práctica y el marco ágil ayudaron a mejorar la dinámica.</p>
 <p><strong>Tablero Kanban Preliminar</strong>
-<img decoding="async" loading="lazy" alt="Kanban" src="https://vedoyajuan.github.io/portfolio/assets/images/kanban-5b240cdd63d8393368e0dab1e55574d3.png" width="957" height="775" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="Burndown" src="https://vedoyajuan.github.io/portfolio/assets/images/burndownC-7d783dd9cc8a5e275642bf7dffc05a2b.png" width="1433" height="808" class="img_ev3q"></p>
+<img decoding="async" loading="lazy" alt="Kanban" src="https://vedoyajuan.github.io/assets/images/kanban-5b240cdd63d8393368e0dab1e55574d3.png" width="957" height="775" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Burndown" src="https://vedoyajuan.github.io/assets/images/burndownC-7d783dd9cc8a5e275642bf7dffc05a2b.png" width="1433" height="808" class="img_ev3q"></p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusiones">Conclusiones<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#conclusiones" class="hash-link" aria-label="Direct link to Conclusiones" title="Direct link to Conclusiones">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusiones">Conclusiones<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#conclusiones" class="hash-link" aria-label="Direct link to Conclusiones" title="Direct link to Conclusiones">​</a></h2>
 <p>El proyecto culminó con una <strong>aplicación web funcional</strong> que permite monitorear en tiempo real la <strong>Cuenca Sagmata</strong>, mostrando datos de altura del agua y temperatura de los nodos instalados.</p>
 <p><strong>Logros principales:</strong></p>
 <ul>
@@ -181,7 +181,7 @@
 <li>Visualización dinámica en gráficos, mapas y tablas.</li>
 <li>Gestión de alertas en función de umbrales configurables.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="autores">Autores<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#autores" class="hash-link" aria-label="Direct link to Autores" title="Direct link to Autores">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="autores">Autores<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#autores" class="hash-link" aria-label="Direct link to Autores" title="Direct link to Autores">​</a></h2>
 <ul>
 <li><strong>Fernández Francisco Tomás</strong></li>
 <li><strong>Collado Yamila</strong></li>
@@ -189,7 +189,7 @@
 <li><strong>Gutierrez Cristian</strong></li>
 <li><strong>Vedoya Juan Pablo</strong></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="github">GitHub<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/17/proyecto-final-desarrollo-software#github" class="hash-link" aria-label="Direct link to GitHub" title="Direct link to GitHub">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="github">GitHub<a href="https://vedoyajuan.github.io/blog/2025/09/17/proyecto-final-desarrollo-software#github" class="hash-link" aria-label="Direct link to GitHub" title="Direct link to GitHub">​</a></h3>
 <ul>
 <li><a href="https://github.com/UNPSJB/RMA-grupo-5" target="_blank" rel="noopener noreferrer">RMA Grupo 5</a></li>
 </ul>
@@ -212,13 +212,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Cómo Construí Mi Portafolio Profesional]]></title>
-        <id>https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio</id>
-        <link href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio"/>
+        <id>https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio</id>
+        <link href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio"/>
         <updated>2025-09-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[¡Hola! En este post quiero contar mi experiencia armando este sitio que estás viendo ahora mismo. La idea era crear un portafolio que no solo muestre mis proyectos y habilidades, sino que también funcione como una extensión de mi currículum.]]></summary>
         <content type="html"><![CDATA[<p>¡Hola! En este post quiero contar mi experiencia armando este sitio que estás viendo ahora mismo. La idea era crear un portafolio que no solo muestre mis proyectos y habilidades, sino que también funcione como una extensión de mi currículum.<br>
 <!-- -->Después de evaluar algunas opciones, me decidí por <strong>Docusaurus</strong>, y en este artículo te cuento por qué lo elegí, qué pasos seguí, los desafíos que me encontré y qué aprendí en el camino.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="qué-es-docusaurus">¿Qué es Docusaurus?<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio#qu%C3%A9-es-docusaurus" class="hash-link" aria-label="Direct link to ¿Qué es Docusaurus?" title="Direct link to ¿Qué es Docusaurus?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="qué-es-docusaurus">¿Qué es Docusaurus?<a href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio#qu%C3%A9-es-docusaurus" class="hash-link" aria-label="Direct link to ¿Qué es Docusaurus?" title="Direct link to ¿Qué es Docusaurus?">​</a></h2>
 <p><strong>Docusaurus</strong> apareció en 2017 de la mano de ingenieros de <strong>Facebook (hoy Meta)</strong> para resolver un problema interno: necesitaban una forma rápida y ordenada de crear documentación para proyectos open source.</p>
 <p>Hasta ese momento, la mayoría de las documentaciones eran un caos: estilos distintos, generadores complejos o wikis difíciles de mantener. Docusaurus vino a simplificar todo con tres ideas clave:</p>
 <ul>
@@ -228,7 +228,7 @@
 </ul>
 <p>Con el tiempo, se volvió popular porque proyectos gigantes como <strong>React Native, Jest o Redux</strong> lo adoptaron. Hoy en día, con <strong>Docusaurus 2</strong>, ya no se limita a docs técnicas: ahora soporta blogs, portafolios y hasta sitios completos, con temas, plugins y despliegues sencillos en GitHub Pages, Netlify o Vercel.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="por-qué-lo-elegí">¿Por qué lo elegí?<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio#por-qu%C3%A9-lo-eleg%C3%AD" class="hash-link" aria-label="Direct link to ¿Por qué lo elegí?" title="Direct link to ¿Por qué lo elegí?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="por-qué-lo-elegí">¿Por qué lo elegí?<a href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio#por-qu%C3%A9-lo-eleg%C3%AD" class="hash-link" aria-label="Direct link to ¿Por qué lo elegí?" title="Direct link to ¿Por qué lo elegí?">​</a></h2>
 <p>Yo buscaba algo que cumpliera con tres cosas:</p>
 <ol>
 <li><strong>Simple de usar</strong>, porque entre la facultad y mis proyectos personales no podía perder semanas configurando.</li>
@@ -244,7 +244,7 @@
 </ul>
 <p>En resumen: me permitió levantar algo profesional en poco tiempo, sin dejar de ser flexible para el futuro.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paso-1-instalación-y-configuración-inicial">Paso 1: Instalación y Configuración Inicial<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio#paso-1-instalaci%C3%B3n-y-configuraci%C3%B3n-inicial" class="hash-link" aria-label="Direct link to Paso 1: Instalación y Configuración Inicial" title="Direct link to Paso 1: Instalación y Configuración Inicial">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paso-1-instalación-y-configuración-inicial">Paso 1: Instalación y Configuración Inicial<a href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio#paso-1-instalaci%C3%B3n-y-configuraci%C3%B3n-inicial" class="hash-link" aria-label="Direct link to Paso 1: Instalación y Configuración Inicial" title="Direct link to Paso 1: Instalación y Configuración Inicial">​</a></h2>
 <p>Primero instalé <strong>Node.js y npm</strong>. Después, en la terminal corrí:</p>
 <div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">npx create-docusaurus@latest mi-portafolio classic</span><br></span></code></pre></div></div>
 <p>Esto generó la estructura inicial de Docusaurus. Luego entré en la carpeta y arranqué el servidor con:</p>
@@ -256,7 +256,7 @@
 <li>Archivos de configuración (<code>docusaurus.config.js</code>) para cambiar título, descripción, enlaces, etc.</li>
 </ul>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paso-2-decisiones-de-diseño">Paso 2: Decisiones de Diseño<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio#paso-2-decisiones-de-dise%C3%B1o" class="hash-link" aria-label="Direct link to Paso 2: Decisiones de Diseño" title="Direct link to Paso 2: Decisiones de Diseño">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paso-2-decisiones-de-diseño">Paso 2: Decisiones de Diseño<a href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio#paso-2-decisiones-de-dise%C3%B1o" class="hash-link" aria-label="Direct link to Paso 2: Decisiones de Diseño" title="Direct link to Paso 2: Decisiones de Diseño">​</a></h2>
 <p>Quería un sitio limpio y profesional, así que toqué varias cosas:</p>
 <ul>
 <li>
@@ -279,7 +279,7 @@
 </ul>
 <p>También sumé imágenes en <code>static/img</code> para darle vida al sitio.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paso-3-tecnologías-integradas">Paso 3: Tecnologías Integradas<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio#paso-3-tecnolog%C3%ADas-integradas" class="hash-link" aria-label="Direct link to Paso 3: Tecnologías Integradas" title="Direct link to Paso 3: Tecnologías Integradas">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paso-3-tecnologías-integradas">Paso 3: Tecnologías Integradas<a href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio#paso-3-tecnolog%C3%ADas-integradas" class="hash-link" aria-label="Direct link to Paso 3: Tecnologías Integradas" title="Direct link to Paso 3: Tecnologías Integradas">​</a></h2>
 <p>Este portafolio usa un stack sencillo pero bastante completo:</p>
 <ul>
 <li><strong>React:</strong> para los componentes interactivos.</li>
@@ -289,7 +289,7 @@
 </ul>
 <p>Además, subí PDFs de certificados a <code>static/docs</code> para que se puedan descargar.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paso-4-cómo-lo-desplegué-con-github-pages">Paso 4: Cómo lo Desplegué con GitHub Pages<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio#paso-4-c%C3%B3mo-lo-desplegu%C3%A9-con-github-pages" class="hash-link" aria-label="Direct link to Paso 4: Cómo lo Desplegué con GitHub Pages" title="Direct link to Paso 4: Cómo lo Desplegué con GitHub Pages">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paso-4-cómo-lo-desplegué-con-github-pages">Paso 4: Cómo lo Desplegué con GitHub Pages<a href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio#paso-4-c%C3%B3mo-lo-desplegu%C3%A9-con-github-pages" class="hash-link" aria-label="Direct link to Paso 4: Cómo lo Desplegué con GitHub Pages" title="Direct link to Paso 4: Cómo lo Desplegué con GitHub Pages">​</a></h2>
 <p>Una de las mejores partes es lo fácil que es ponerlo online con GitHub Pages. Lo hice así:</p>
 <ol>
 <li>
@@ -314,7 +314,7 @@
 </ol>
 <p>¡Y listo! Ahora mi portafolio se publica automáticamente en <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a> cada vez que lo actualizo.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="desafíos-y-aprendizajes">Desafíos y Aprendizajes<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio#desaf%C3%ADos-y-aprendizajes" class="hash-link" aria-label="Direct link to Desafíos y Aprendizajes" title="Direct link to Desafíos y Aprendizajes">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="desafíos-y-aprendizajes">Desafíos y Aprendizajes<a href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio#desaf%C3%ADos-y-aprendizajes" class="hash-link" aria-label="Direct link to Desafíos y Aprendizajes" title="Direct link to Desafíos y Aprendizajes">​</a></h2>
 <p>No todo fue fácil. Algunos problemas que tuve y cómo los resolví:</p>
 <ol>
 <li><strong>Estructura de carpetas:</strong> al principio me perdía, hasta que leí la documentación oficial y vi un par de tutoriales en YouTube.</li>
@@ -324,12 +324,12 @@
 </ol>
 <p>Lo más valioso fue entender que no hace falta complicarse: un sitio claro, con buen contenido y organizado ya transmite mucho más que mil animaciones.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusión">Conclusión<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio#conclusi%C3%B3n" class="hash-link" aria-label="Direct link to Conclusión" title="Direct link to Conclusión">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="conclusión">Conclusión<a href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio#conclusi%C3%B3n" class="hash-link" aria-label="Direct link to Conclusión" title="Direct link to Conclusión">​</a></h2>
 <p>Armar este portafolio fue una experiencia clave: aprendí sobre desarrollo web, herramientas modernas y, sobre todo, a documentar lo que hago.
 Pasé de no tener idea de cómo mostrar mis cosas a tener un sitio que me representa, y que además puedo seguir mejorando con el tiempo.</p>
 <p>La idea es seguir actualizándolo, agregando proyectos y probando nuevas features a medida que voy aprendiendo.</p>
 <hr>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="enlaces-útiles">Enlaces útiles<a href="https://vedoyajuan.github.io/portfolio/blog/2025/09/11/como-construi-mi-portafolio#enlaces-%C3%BAtiles" class="hash-link" aria-label="Direct link to Enlaces útiles" title="Direct link to Enlaces útiles">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="enlaces-útiles">Enlaces útiles<a href="https://vedoyajuan.github.io/blog/2025/09/11/como-construi-mi-portafolio#enlaces-%C3%BAtiles" class="hash-link" aria-label="Direct link to Enlaces útiles" title="Direct link to Enlaces útiles">​</a></h2>
 <ul>
 <li><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a></li>
 <li><a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a></li>
