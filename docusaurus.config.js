@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Vedoya Juan Pablo',
   tagline: 'Estudiante de Analista Programador y Lic. Sistemas',
-  favicon: 'img/favicon.ico',   
+  favicon: '/favicon.ico',   
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'VedoyaJuan', // Usually your GitHub org/user name.
-  projectName: 'Portfolio', // Usually your repo name.
+  projectName: 'portfolio', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -79,8 +79,8 @@ const config = {
       navbar: {
         title: 'Inicio',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/VJ.svg',
+          alt: 'VJ',
+          src: 'img/vjLogo.jpg',
         },
         items: [
           {
