@@ -13,7 +13,7 @@ const FeatureList = [
     Svg: DesarrolloSvg,
     description: (
       <>
-        Como estudiante, me interesa desarrollarme en diferentes ámbitos laborales relacionados 
+        Me interesa desarrollarme en diferentes ámbitos laborales relacionados 
         con la carrera que estoy cursando. Personalmente, tengo un especial interés en las áreas de 
          <strong> ciberseguridad</strong> y <strong>desarrollo</strong>.
       </>
@@ -37,8 +37,8 @@ const FeatureList = [
     Svg: require('@site/static/img/LogoUNPSJB.svg').default,
     description: (
       <>
-        Soy estudiante de la <strong>Universidad Nacional de la 
-        Patagonia San Juan Bosco</strong>, en las carreras de <strong>Analista Programador y Lic. en Sistemas</strong> (2022 - presente).
+        Soy <strong>Analista Programador</strong> y estudiante de la <strong>Universidad Nacional de la 
+        Patagonia San Juan Bosco</strong>, en la carrera de <strong>Lic. en Sistemas</strong> (2022 - presente).
       </>
     ),
   },

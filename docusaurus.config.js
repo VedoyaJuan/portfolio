@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Vedoya Juan Pablo',
-  tagline: 'Estudiante de Analista Programador y Lic. Sistemas',
+  tagline: 'Analista Programador y Estudiante de Lic. Sistemas',
   favicon: '/favicon.ico',   
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
